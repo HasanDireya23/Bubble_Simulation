@@ -1,4 +1,4 @@
-# Dynamic Liquid Bubbles Simulation Module [Link]https://bubble-simulation-l9gdhymwm-hasans-projects-fb9d78f4.vercel.app
+# Dynamic Liquid Bubbles Simulation Module [Link](https://bubble-simulation-l9gdhymwm-hasans-projects-fb9d78f4.vercel.app)
 
 This software module simulates three dynamic liquid bubbles on a web page, featuring collision and interaction behaviors. The bubbles are distinguished by varying colors and demonstrate responsive movement to screen dimensions while maintaining containment within the display area. Additionally, the module incorporates gyroscope responsiveness for intuitive interaction on mobile devices.
 
